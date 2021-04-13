@@ -1,0 +1,38 @@
+.Texto{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Indie Flower', monospace;
+    
+}
+
+.ConfirmacionLista {
+    padding-left: 350px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+}
+.Fondo {
+   background-color: #edffec;
+   
+}
+
+.Boton {
+    text-align: center; 
+    font-family: 'Indie Flower', monospace;
+}
+
+.Boton Button{
+    font-size: 16px;
+    font-weight: bold;
+    width: 130px;
+    font-family: 'Indie Flower', monospace;
+}
+
+.Total{
+    text-align: center; 
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Indie Flower', monospace;
+}

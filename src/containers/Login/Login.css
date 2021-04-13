@@ -1,0 +1,31 @@
+.Login {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: 'Indie Flower', monospace;
+    background-color: #edffec;
+}
+
+.ancho{
+    width: 40%;
+    margin-left: 420px;
+    
+
+}
+
+.Login label {
+    font-size: 20px;
+    font-family: 'Indie Flower', monospace;
+}
+
+.LoginBoton{
+    margin-top: 15px;
+    text-align: center;
+    font-family: 'Indie Flower', monospace;
+}
+
+.LoginBoton Button{
+    font-size: 15px;
+    font-weight: bold;
+    width: 170px;
+}

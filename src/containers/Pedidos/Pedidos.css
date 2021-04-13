@@ -1,0 +1,23 @@
+.PedidosLista{
+    
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'Indie Flower', monospace;
+    padding-left: 200px;
+    padding-bottom: 40px;
+}
+
+.PedidosTexto{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Indie Flower', monospace;
+}
+
+.PedidosModal{
+    margin: auto;
+    font-family: 'Indie Flower', monospace;
+    font-weight: bold;
+}
+

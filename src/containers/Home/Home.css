@@ -1,0 +1,52 @@
+.HomeUsuario{
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Indie Flower', monospace;
+    color: chocolate;
+    font-weight: bold;
+    padding-top: 10px;
+
+   
+
+}
+
+.HomeTotal {
+    padding-top: 55px;
+    padding-bottom: 8px;
+    font-family: 'Indie Flower', monospace;
+    background-color: #edffec;
+     padding-left: 400px;
+   
+}
+
+.Fondo{
+    background-color: #edffec;
+    
+}
+.Carrito{
+    font-size: 40px;
+    
+}
+
+.HomeBoton {
+   
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    
+    
+}
+
+
+
+.HomeBoton p {
+    
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.HomeBoton Button{
+    font-size: 16px;
+    font-weight: bold;
+    width: 170px;
+}

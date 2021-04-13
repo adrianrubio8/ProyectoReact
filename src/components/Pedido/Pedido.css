@@ -1,0 +1,41 @@
+.Pedido {
+    border: 2px solid black;
+    background-color: #fbeeac;
+    border-radius: 20px;
+    color: chocolate;
+    font-family: 'Indie Flower', monospace;
+    width: 85%;
+    margin-bottom: 20px;
+}
+
+.Pedido p {
+    margin: 0;
+    font-family: 'Indie Flower', monospace;
+}
+
+.PedidoDatos {
+  
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Indie Flower', monospace;
+}
+
+.Boton {
+    margin: 80px auto;
+    text-align: center; 
+    font-family: 'Indie Flower', monospace;
+   
+}
+
+.Boton Button{
+    font-size: 16px;
+    font-weight: bold;
+    width: 130px;
+    font-family: 'Indie Flower', monospace;
+  
+}
+.Flecha{
+    font-size: 30px;
+}
+
+

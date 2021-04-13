@@ -1,0 +1,43 @@
+.producto {
+    margin-top: 30px;
+    margin-bottom: auto;
+    margin-right: 50px;
+    margin-left: 50px;
+    border: 2px solid chocolate;
+    background-color: #ffc93c;
+    padding: 3px 10px;
+    border-radius: 20px;
+
+}
+.CardProducto {
+    margin:5px;
+}
+.CardBody{
+    border: 3px solid #ffc93c;
+    margin-top: 2px;
+    background-color: #edffec;
+    border-radius: 5px;
+}
+.CardTitulo {
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: 'Indie Flower', monospace;
+    
+}
+
+.CardBoton {
+    text-align: center;
+    font-family: 'Indie Flower', monospace;
+    color: black
+    ;
+}
+
+.CardBoton Button {
+    font-weight: bold;
+}
+
+.CardImagen{
+    max-width: 200px;
+    max-height: 300px;
+}

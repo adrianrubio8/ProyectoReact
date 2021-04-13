@@ -1,0 +1,24 @@
+.Formulario {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Indie Flower', monospace;
+    background-color: #edffec;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.Formulario Label {
+    margin-left: 10px;
+}
+
+.BotonFormulario {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.BotonFormulario Button {
+    font-size: 16px;
+    font-weight: bold;
+    width: 170px;
+}
